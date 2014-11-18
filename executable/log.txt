@@ -1,0 +1,722 @@
+17.05.2010 10:43:09: ====starting=====
+17.05.2010 10:43:39: ====starting=====
+17.05.2010 18:40:22: ====starting=====
+17.05.2010 18:40:33: StreamDecoder joined id = 104282088
+17.05.2010 19:12:15: StreamDecoder joined id = 104282088
+17.05.2010 19:12:23: StreamDecoder joined id = 104282088
+18.05.2010 10:19:44: StreamDecoder joined id = 104282088
+18.05.2010 10:20:47: StreamDecoder joined id = 104282088
+18.05.2010 20:13:47: ====starting=====
+18.05.2010 20:14:12: StreamDecoder joined id = 10415168
+18.05.2010 20:32:58: StreamDecoder joined id = 10415168
+18.05.2010 20:47:05: ====starting=====
+18.05.2010 20:47:58: StreamDecoder joined id = 104339248
+18.05.2010 20:48:34: StreamDecoder joined id = 104339248
+18.05.2010 20:48:59: StreamDecoder joined id = 104339248
+18.05.2010 20:50:21: StreamDecoder joined id = 104339248
+18.05.2010 20:50:36: StreamDecoder joined id = 104339248
+18.05.2010 20:50:41: StreamDecoder joined id = 104339248
+18.05.2010 20:50:51: StreamDecoder joined id = 104339248
+18.05.2010 20:50:59: StreamDecoder joined id = 104339248
+18.05.2010 20:51:24: StreamDecoder joined id = 104339248
+18.05.2010 20:52:36: StreamDecoder joined id = 104339248
+18.05.2010 20:54:32: StreamDecoder joined id = 104339248
+18.05.2010 20:56:25: StreamDecoder joined id = 104339248
+18.05.2010 20:57:15: StreamDecoder joined id = 104339248
+18.05.2010 20:57:32: StreamDecoder joined id = 104339248
+18.05.2010 20:58:19: StreamDecoder joined id = 104339248
+18.05.2010 21:14:29: ====starting=====
+18.05.2010 21:14:38: StreamDecoder joined id = 13276256
+18.05.2010 21:14:51: StreamDecoder joined id = 13276256
+18.05.2010 21:30:02: StreamDecoder joined id = 13276088
+18.05.2010 21:30:38: StreamDecoder joined id = 33998272
+18.05.2010 21:30:56: StreamDecoder joined id = 33998272
+18.05.2010 21:36:33: StreamDecoder joined id = 33998368
+18.05.2010 21:36:57: StreamDecoder joined id = 33998464
+18.05.2010 21:46:30: ====starting=====
+18.05.2010 21:46:44: StreamDecoder joined id = 13275096
+18.05.2010 21:47:09: StreamDecoder joined id = 13274624
+18.05.2010 21:50:19: StreamDecoder joined id = 33998368
+18.05.2010 21:55:00: StreamDecoder joined id = 13276728
+18.05.2010 21:56:01: StreamDecoder joined id = 33998368
+19.05.2010 12:02:21: ====starting=====
+19.05.2010 12:02:29: StreamDecoder joined id = 94616800
+19.05.2010 12:10:01: StreamDecoder joined id = 94646576
+19.05.2010 12:14:43: StreamDecoder joined id = 94646368
+19.05.2010 12:16:22: StreamDecoder joined id = 94646368
+19.05.2010 12:17:16: ====starting=====
+19.05.2010 12:18:11: StreamDecoder joined id = 13275080
+19.05.2010 12:24:03: ====starting=====
+19.05.2010 12:25:17: StreamDecoder joined id = 13277496
+19.05.2010 12:26:51: StreamDecoder joined id = 13279016
+19.05.2010 12:32:19: ====starting=====
+19.05.2010 12:32:33: StreamDecoder joined id = 13277184
+19.05.2010 17:52:07: ====starting=====
+19.05.2010 17:52:20: StreamDecoder joined id = 74757600
+19.05.2010 18:41:53: ====starting=====
+19.05.2010 18:42:21: StreamDecoder joined id = 76790928
+19.05.2010 18:44:44: StreamDecoder joined id = 76789184
+19.05.2010 18:53:35: ====starting=====
+19.05.2010 18:53:49: StreamDecoder joined id = 13277184
+20.05.2010 10:16:51: ====starting=====
+20.05.2010 10:17:04: StreamDecoder joined id = 13275000
+20.05.2010 11:02:47: ====starting=====
+20.05.2010 11:04:08: StreamDecoder joined id = 13275176
+20.05.2010 11:04:28: StreamDecoder joined id = 13274872
+20.05.2010 11:04:39: StreamDecoder joined id = 78133336
+20.05.2010 11:08:09: StreamDecoder joined id = 13277184
+20.05.2010 11:14:52: StreamDecoder joined id = 13276088
+20.05.2010 11:16:28: StreamDecoder joined id = 13276088
+20.05.2010 11:17:31: StreamDecoder joined id = 13276256
+20.05.2010 11:20:24: StreamDecoder joined id = 13277352
+20.05.2010 11:22:11: ====starting=====
+20.05.2010 11:22:19: StreamDecoder joined id = 94682240
+20.05.2010 11:28:21: ====starting=====
+20.05.2010 11:28:38: StreamDecoder joined id = 75740680
+20.05.2010 11:29:55: StreamDecoder joined id = 13274688
+20.05.2010 11:30:43: StreamDecoder joined id = 13274784
+20.05.2010 11:31:15: StreamDecoder joined id = 75742808
+20.05.2010 11:32:56: StreamDecoder joined id = 75742808
+20.05.2010 11:34:41: ====starting=====
+20.05.2010 11:35:40: StreamDecoder joined id = 83076904
+20.05.2010 11:36:07: StreamDecoder joined id = 83179480
+20.05.2010 11:40:43: StreamDecoder joined id = 83179480
+20.05.2010 11:51:38: StreamDecoder joined id = 83179480
+20.05.2010 11:53:21: StreamDecoder joined id = 83177568
+20.05.2010 11:54:48: ====starting=====
+20.05.2010 11:55:20: StreamDecoder joined id = 87275376
+20.05.2010 11:58:20: StreamDecoder joined id = 87542696
+20.05.2010 12:07:44: ====starting=====
+20.05.2010 12:08:42: StreamDecoder joined id = 76776616
+20.05.2010 12:12:26: StreamDecoder joined id = 76822240
+20.05.2010 12:13:27: StreamDecoder joined id = 76743096
+20.05.2010 12:14:53: ====starting=====
+20.05.2010 12:15:14: StreamDecoder joined id = 82032112
+20.05.2010 12:17:32: StreamDecoder joined id = 82034040
+20.05.2010 12:22:03: StreamDecoder joined id = 82251160
+20.05.2010 12:29:17: StreamDecoder joined id = 83013264
+20.05.2010 12:31:18: StreamDecoder joined id = 82034208
+20.05.2010 12:33:36: StreamDecoder joined id = 82034208
+20.05.2010 12:34:18: StreamDecoder joined id = 82034208
+20.05.2010 12:37:06: StreamDecoder joined id = 82034208
+20.05.2010 12:37:56: StreamDecoder joined id = 82034208
+20.05.2010 12:39:06: StreamDecoder joined id = 83013152
+20.05.2010 12:40:21: StreamDecoder joined id = 83013152
+20.05.2010 12:43:12: StreamDecoder joined id = 83013264
+20.05.2010 12:44:45: StreamDecoder joined id = 83013152
+20.05.2010 12:46:34: StreamDecoder joined id = 83013360
+20.05.2010 12:50:19: StreamDecoder joined id = 82502016
+20.05.2010 12:50:55: StreamDecoder joined id = 13274264
+20.05.2010 12:53:57: StreamDecoder joined id = 83013248
+20.05.2010 12:54:09: StreamDecoder joined id = 83013248
+20.05.2010 12:55:17: StreamDecoder joined id = 83013248
+20.05.2010 13:08:02: StreamDecoder joined id = 83013248
+20.05.2010 15:23:55: StreamDecoder joined id = 83013248
+20.05.2010 15:30:10: StreamDecoder joined id = 83013360
+20.05.2010 15:37:34: StreamDecoder joined id = 83013360
+21.05.2010 10:44:21: ====starting=====
+21.05.2010 17:24:32: ====starting=====
+21.05.2010 17:25:01: StreamDecoder joined id = 13276256
+21.05.2010 17:26:44: StreamDecoder joined id = 33980232
+24.05.2010 12:23:04: ====starting=====
+24.05.2010 12:23:36: StreamDecoder joined id = 89475976
+24.05.2010 12:31:25: ====starting=====
+24.05.2010 12:31:43: StreamDecoder joined id = 77839576
+24.05.2010 12:32:18: ====starting=====
+24.05.2010 12:32:52: StreamDecoder joined id = 13277184
+24.05.2010 12:33:29: StreamDecoder joined id = 13277680
+24.05.2010 12:34:24: StreamDecoder joined id = 13277960
+24.05.2010 12:35:22: StreamDecoder joined id = 13277960
+24.05.2010 12:37:30: StreamDecoder joined id = 13278040
+24.05.2010 12:37:34: StreamDecoder joined id = 13278040
+24.05.2010 12:38:23: StreamDecoder joined id = 13278040
+24.05.2010 12:38:54: StreamDecoder joined id = 13278040
+24.05.2010 12:39:34: StreamDecoder joined id = 13278040
+24.05.2010 12:40:11: StreamDecoder joined id = 13278208
+24.05.2010 12:41:38: StreamDecoder joined id = 13278040
+24.05.2010 12:43:13: StreamDecoder joined id = 13278040
+24.05.2010 12:44:13: StreamDecoder joined id = 13277680
+24.05.2010 12:47:49: StreamDecoder joined id = 13278936
+24.05.2010 12:50:35: StreamDecoder joined id = 13278936
+24.05.2010 12:51:16: ====starting=====
+24.05.2010 12:53:19: StreamDecoder joined id = 13277080
+24.05.2010 12:57:42: StreamDecoder joined id = 13277480
+24.05.2010 13:00:49: StreamDecoder joined id = 13277480
+24.05.2010 16:07:30: StreamDecoder joined id = 13275984
+25.05.2010 11:36:12: ====starting=====
+25.05.2010 11:36:22: StreamDecoder joined id = 13275096
+25.05.2010 11:40:13: StreamDecoder joined id = 13274792
+25.05.2010 11:40:40: ====starting=====
+25.05.2010 11:47:05: StreamDecoder joined id = 13277184
+25.05.2010 11:50:48: StreamDecoder joined id = 13276088
+25.05.2010 11:59:41: ====starting=====
+25.05.2010 12:00:22: StreamDecoder joined id = 13274264
+25.05.2010 12:28:03: StreamDecoder joined id = 94724704
+25.05.2010 12:35:23: StreamDecoder joined id = 13278504
+25.05.2010 12:36:04: StreamDecoder joined id = 13278784
+25.05.2010 12:36:21: StreamDecoder joined id = 94613600
+25.05.2010 12:38:06: StreamDecoder joined id = 94614208
+25.05.2010 12:39:48: StreamDecoder joined id = 94614208
+25.05.2010 12:41:14: StreamDecoder joined id = 94614208
+25.05.2010 12:47:09: StreamDecoder joined id = 94614208
+25.05.2010 12:50:16: StreamDecoder joined id = 94613600
+25.05.2010 12:53:59: StreamDecoder joined id = 94613600
+25.05.2010 12:56:25: StreamDecoder joined id = 94613600
+25.05.2010 12:58:40: ====starting=====
+25.05.2010 13:00:00: StreamDecoder joined id = 88323472
+25.05.2010 13:07:17: StreamDecoder joined id = 13275360
+25.05.2010 13:08:17: StreamDecoder joined id = 88560808
+25.05.2010 13:11:44: StreamDecoder joined id = 94613600
+25.05.2010 15:18:38: StreamDecoder joined id = 88560808
+25.05.2010 15:48:32: StreamDecoder joined id = 94613768
+25.05.2010 15:49:21: StreamDecoder joined id = 94613600
+25.05.2010 15:53:06: StreamDecoder joined id = 94613600
+25.05.2010 16:03:58: StreamDecoder joined id = 94593856
+25.05.2010 16:17:09: StreamDecoder joined id = 94593968
+25.05.2010 16:18:23: StreamDecoder joined id = 94613600
+25.05.2010 16:19:10: StreamDecoder joined id = 94613600
+25.05.2010 16:29:15: StreamDecoder joined id = 94613600
+25.05.2010 16:37:47: StreamDecoder joined id = 94613600
+25.05.2010 16:38:29: StreamDecoder joined id = 94594544
+25.05.2010 16:39:04: StreamDecoder joined id = 94594544
+25.05.2010 16:41:59: StreamDecoder joined id = 94594544
+25.05.2010 16:47:07: StreamDecoder joined id = 94613768
+25.05.2010 19:36:48: ====starting=====
+26.05.2010 10:28:58: ====starting=====
+26.05.2010 10:38:54: ====starting=====
+26.05.2010 11:55:25: ====starting=====
+26.05.2010 11:57:02: StreamDecoder joined id = 13277072
+26.05.2010 15:14:28: ====starting=====
+26.05.2010 15:14:57: StreamDecoder joined id = 13277192
+26.05.2010 15:28:17: StreamDecoder joined id = 13276472
+01.06.2010 12:46:09: ====starting=====
+01.06.2010 12:51:30: StreamDecoder joined id = 94595200
+01.06.2010 12:52:10: StreamDecoder joined id = 94596872
+02.06.2010 11:34:11: ====starting=====
+02.06.2010 11:34:39: StreamDecoder joined id = 85134392
+02.06.2010 11:34:43: StreamDecoder joined id = 85133688
+02.06.2010 11:34:52: StreamDecoder joined id = 85133880
+02.06.2010 11:36:25: StreamDecoder joined id = 85133600
+03.06.2010 17:14:51: ====starting=====
+07.06.2010 19:25:31: ====starting=====
+07.06.2010 19:25:50: StreamDecoder joined id = 74713232
+07.06.2010 19:28:24: StreamDecoder joined id = 74713168
+07.06.2010 19:29:26: StreamDecoder joined id = 74712488
+08.06.2010 13:05:23: ====starting=====
+08.06.2010 15:12:01: ====starting=====
+08.06.2010 15:15:32: ====starting=====
+08.06.2010 15:16:34: StreamDecoder joined id = 13340648
+08.06.2010 15:20:37: StreamDecoder joined id = 13340232
+08.06.2010 15:27:32: ====starting=====
+08.06.2010 15:30:05: StreamDecoder joined id = 13339808
+08.06.2010 15:38:09: ====starting=====
+08.06.2010 15:39:52: ====starting=====
+08.06.2010 15:41:30: StreamDecoder joined id = 13342728
+08.06.2010 15:43:46: ====starting=====
+08.06.2010 15:44:02: StreamDecoder joined id = 13339808
+08.06.2010 15:46:16: StreamDecoder joined id = 92615128
+08.06.2010 15:46:59: ====starting=====
+08.06.2010 15:47:25: StreamDecoder joined id = 13340648
+08.06.2010 16:00:20: ====starting=====
+08.06.2010 16:00:37: StreamDecoder joined id = 13358896
+08.06.2010 16:04:30: StreamDecoder joined id = 65395792
+08.06.2010 16:07:58: StreamDecoder joined id = 65394880
+08.06.2010 16:11:21: ====starting=====
+08.06.2010 16:13:01: StreamDecoder joined id = 13340904
+08.06.2010 16:35:32: ====starting=====
+08.06.2010 16:35:46: StreamDecoder joined id = 94680400
+08.06.2010 16:52:46: ====starting=====
+08.06.2010 17:03:59: ====starting=====
+08.06.2010 17:04:13: StreamDecoder joined id = 13342728
+09.06.2010 11:55:45: ====starting=====
+09.06.2010 11:56:18: StreamDecoder joined id = 94680496
+09.06.2010 12:13:42: ====starting=====
+09.06.2010 12:13:53: StreamDecoder joined id = 13339808
+09.06.2010 12:19:46: ====starting=====
+09.06.2010 12:20:50: StreamDecoder joined id = 13340904
+09.06.2010 12:22:08: ====starting=====
+09.06.2010 17:10:20: ====starting=====
+09.06.2010 17:12:22: StreamDecoder joined id = 13342728
+09.06.2010 17:13:13: StreamDecoder joined id = 13340536
+09.06.2010 17:13:20: StreamDecoder joined id = 13340536
+09.06.2010 17:13:48: StreamDecoder joined id = 13340536
+09.06.2010 17:24:12: StreamDecoder joined id = 13340648
+09.06.2010 17:24:37: StreamDecoder joined id = 13340536
+09.06.2010 17:24:42: StreamDecoder joined id = 13340648
+09.06.2010 18:41:34: StreamDecoder joined id = 13340424
+10.06.2010 10:36:35: StreamDecoder joined id = 13340448
+10.06.2010 11:23:13: StreamDecoder joined id = 78415352
+10.06.2010 11:32:06: StreamDecoder joined id = 77869432
+10.06.2010 11:46:48: StreamDecoder joined id = 13342192
+10.06.2010 11:53:46: StreamDecoder joined id = 13342288
+10.06.2010 11:55:40: StreamDecoder joined id = 77870280
+10.06.2010 12:02:51: StreamDecoder joined id = 77870280
+10.06.2010 12:04:55: StreamDecoder joined id = 77870280
+10.06.2010 12:35:46: StreamDecoder joined id = 77870376
+10.06.2010 12:36:33: StreamDecoder joined id = 77870472
+10.06.2010 12:37:13: StreamDecoder joined id = 77870472
+10.06.2010 12:46:50: StreamDecoder joined id = 77870568
+10.06.2010 12:47:11: StreamDecoder joined id = 13324080
+10.06.2010 12:49:19: StreamDecoder joined id = 13324080
+10.06.2010 12:49:28: StreamDecoder joined id = 13324080
+10.06.2010 13:03:30: StreamDecoder joined id = 78415072
+10.06.2010 13:08:42: StreamDecoder joined id = 78415072
+10.06.2010 15:10:37: StreamDecoder joined id = 78415072
+10.06.2010 15:15:01: StreamDecoder joined id = 78415072
+11.06.2010 14:19:10: ====starting=====
+11.06.2010 14:19:59: StreamDecoder joined id = 75839712
+11.06.2010 14:21:09: StreamDecoder joined id = 75839520
+11.06.2010 14:22:11: ====starting=====
+11.06.2010 14:22:45: StreamDecoder joined id = 51644608
+11.06.2010 14:25:10: StreamDecoder joined id = 75840584
+11.06.2010 14:25:11: StreamDecoder joined id = 51644472
+11.06.2010 14:29:33: StreamDecoder joined id = 51642624
+11.06.2010 14:29:34: StreamDecoder joined id = 75853168
+11.06.2010 14:43:41: StreamDecoder joined id = 51642984
+11.06.2010 14:48:30: StreamDecoder joined id = 51643080
+11.06.2010 14:48:31: StreamDecoder joined id = 13340184
+11.06.2010 14:53:48: StreamDecoder joined id = 51790752
+11.06.2010 14:55:16: StreamDecoder joined id = 75853168
+14.06.2010 11:48:55: ====starting=====
+14.06.2010 11:49:30: StreamDecoder joined id = 13342464
+14.06.2010 12:16:27: ====starting=====
+14.06.2010 12:21:42: StreamDecoder joined id = 13324160
+14.06.2010 12:21:49: StreamDecoder joined id = 13324160
+14.06.2010 12:24:34: StreamDecoder joined id = 13324160
+14.06.2010 12:54:29: ====starting=====
+14.06.2010 12:55:18: StreamDecoder joined id = 13342544
+14.06.2010 12:58:25: ====starting=====
+14.06.2010 13:00:43: StreamDecoder joined id = 13339808
+14.06.2010 13:01:14: ====starting=====
+14.06.2010 13:01:26: StreamDecoder joined id = 13339808
+14.06.2010 13:09:41: StreamDecoder joined id = 94983336
+14.06.2010 13:10:02: StreamDecoder joined id = 95260480
+14.06.2010 14:21:46: ====starting=====
+14.06.2010 14:22:11: StreamDecoder joined id = 13342456
+14.06.2010 14:32:30: ====starting=====
+14.06.2010 14:36:06: StreamDecoder joined id = 13341944
+14.06.2010 14:38:30: StreamDecoder joined id = 92571584
+14.06.2010 14:55:30: ====starting=====
+14.06.2010 14:56:46: StreamDecoder joined id = 13340352
+14.06.2010 14:57:56: StreamDecoder joined id = 13324080
+14.06.2010 14:59:17: StreamDecoder joined id = 95193368
+14.06.2010 15:01:49: StreamDecoder joined id = 95193368
+14.06.2010 15:02:12: StreamDecoder joined id = 94785800
+14.06.2010 15:06:57: ====starting=====
+14.06.2010 15:08:56: StreamDecoder joined id = 77858936
+14.06.2010 15:10:54: StreamDecoder joined id = 77868592
+14.06.2010 15:16:00: ====starting=====
+14.06.2010 15:18:26: StreamDecoder joined id = 13343048
+14.06.2010 15:22:59: ====starting=====
+14.06.2010 15:24:55: StreamDecoder joined id = 13340128
+14.06.2010 15:30:27: ====starting=====
+14.06.2010 15:35:02: StreamDecoder joined id = 13341280
+14.06.2010 16:03:17: ====starting=====
+14.06.2010 16:06:00: StreamDecoder joined id = 13342912
+14.06.2010 16:36:44: ====starting=====
+14.06.2010 16:40:07: StreamDecoder joined id = 13342296
+14.06.2010 16:49:10: ====starting=====
+14.06.2010 16:49:55: StreamDecoder joined id = 90469712
+14.06.2010 16:51:44: StreamDecoder joined id = 13340336
+14.06.2010 16:53:01: ====starting=====
+14.06.2010 16:53:39: StreamDecoder joined id = 13340344
+14.06.2010 16:54:42: StreamDecoder joined id = 13340176
+14.06.2010 16:56:05: StreamDecoder joined id = 94918712
+14.06.2010 16:59:22: StreamDecoder joined id = 94679512
+14.06.2010 17:00:59: StreamDecoder joined id = 94634312
+14.06.2010 17:01:07: StreamDecoder joined id = 94634312
+14.06.2010 17:05:37: ====starting=====
+14.06.2010 17:07:15: StreamDecoder joined id = 93630928
+14.06.2010 17:12:56: ====starting=====
+14.06.2010 17:14:07: StreamDecoder joined id = 54788256
+14.06.2010 17:16:12: StreamDecoder joined id = 54833248
+14.06.2010 17:16:56: StreamDecoder joined id = 54791072
+14.06.2010 17:17:02: StreamDecoder joined id = 13340280
+14.06.2010 17:17:11: StreamDecoder joined id = 13340376
+14.06.2010 17:17:29: StreamDecoder joined id = 55110568
+14.06.2010 17:17:56: StreamDecoder joined id = 55110568
+14.06.2010 17:33:24: ====starting=====
+14.06.2010 17:33:45: StreamDecoder joined id = 13341808
+14.06.2010 17:34:11: StreamDecoder joined id = 13341904
+14.06.2010 17:36:49: StreamDecoder joined id = 13342448
+14.06.2010 17:37:07: StreamDecoder joined id = 13342448
+14.06.2010 17:39:01: StreamDecoder joined id = 13340936
+14.06.2010 17:41:04: StreamDecoder joined id = 13340936
+14.06.2010 17:43:24: StreamDecoder joined id = 13343008
+14.06.2010 17:51:15: ====starting=====
+14.06.2010 17:54:08: StreamDecoder joined id = 13339808
+14.06.2010 17:55:51: StreamDecoder joined id = 13341992
+14.06.2010 17:58:03: ====starting=====
+14.06.2010 18:04:21: StreamDecoder joined id = 13341504
+14.06.2010 18:06:53: StreamDecoder joined id = 13341504
+14.06.2010 18:08:19: StreamDecoder joined id = 13341504
+14.06.2010 18:08:52: StreamDecoder joined id = 13341504
+14.06.2010 18:09:49: StreamDecoder joined id = 13341504
+14.06.2010 18:10:46: StreamDecoder joined id = 13341872
+14.06.2010 18:11:05: StreamDecoder joined id = 13341504
+14.06.2010 18:11:20: StreamDecoder joined id = 13341712
+14.06.2010 18:12:49: StreamDecoder joined id = 13341712
+14.06.2010 18:18:18: StreamDecoder joined id = 13341792
+14.06.2010 18:18:30: StreamDecoder joined id = 94680960
+14.06.2010 18:22:35: StreamDecoder joined id = 13341504
+14.06.2010 18:25:46: StreamDecoder joined id = 13341504
+14.06.2010 19:14:53: ====starting=====
+14.06.2010 19:15:09: StreamDecoder joined id = 13366568
+14.06.2010 19:15:32: StreamDecoder joined id = 13366672
+14.06.2010 19:16:09: StreamDecoder joined id = 13363600
+14.06.2010 19:17:56: StreamDecoder joined id = 13363976
+14.06.2010 19:18:28: StreamDecoder joined id = 75760248
+15.06.2010 11:17:08: ====starting=====
+15.06.2010 11:17:25: StreamDecoder joined id = 74822968
+15.06.2010 11:21:28: StreamDecoder joined id = 74911408
+15.06.2010 11:29:44: StreamDecoder joined id = 74911408
+15.06.2010 11:50:40: StreamDecoder joined id = 74911296
+15.06.2010 11:56:37: StreamDecoder joined id = 74911504
+15.06.2010 11:57:57: StreamDecoder joined id = 74910224
+15.06.2010 12:01:14: StreamDecoder joined id = 74910224
+15.06.2010 12:06:59: StreamDecoder joined id = 74911224
+15.06.2010 15:39:50: ====starting=====
+15.06.2010 15:43:03: StreamDecoder joined id = 94677312
+15.06.2010 15:45:06: StreamDecoder joined id = 94679144
+15.06.2010 15:45:43: StreamDecoder joined id = 13351992
+15.06.2010 15:48:51: StreamDecoder joined id = 13351992
+15.06.2010 15:49:06: StreamDecoder joined id = 13339808
+15.06.2010 15:50:58: StreamDecoder joined id = 13351992
+15.06.2010 15:52:57: StreamDecoder joined id = 94679336
+15.06.2010 15:54:53: StreamDecoder joined id = 94679336
+15.06.2010 15:56:11: StreamDecoder joined id = 13351992
+15.06.2010 16:10:49: StreamDecoder joined id = 92233408
+15.06.2010 16:12:06: StreamDecoder joined id = 94679760
+15.06.2010 16:12:17: ====starting=====
+15.06.2010 16:12:19: ====starting=====
+15.06.2010 18:28:42: StreamDecoder joined id = 13342408
+15.06.2010 18:37:32: ====starting=====
+15.06.2010 18:50:47: ====starting=====
+15.06.2010 18:50:58: StreamDecoder joined id = 13341976
+16.06.2010 16:55:41: ====starting=====
+16.06.2010 17:01:27: ====starting=====
+16.06.2010 17:11:47: ====starting=====
+16.06.2010 17:33:41: ====starting=====
+16.06.2010 18:39:46: StreamDecoder joined id = 79955176
+16.06.2010 18:41:25: StreamDecoder joined id = 13340536
+16.06.2010 18:44:19: ====starting=====
+16.06.2010 19:14:19: ====starting=====
+16.06.2010 19:14:23: StreamDecoder joined id = 13341904
+16.06.2010 19:18:54: StreamDecoder joined id = 34246752
+16.06.2010 19:27:14: StreamDecoder joined id = 13341336
+16.06.2010 19:32:43: StreamDecoder joined id = 13341384
+16.06.2010 19:34:28: StreamDecoder joined id = 34106400
+16.06.2010 19:35:04: StreamDecoder joined id = 34106032
+16.06.2010 19:38:16: StreamDecoder joined id = 34106200
+16.06.2010 19:38:56: StreamDecoder joined id = 34106200
+16.06.2010 19:39:49: ====starting=====
+16.06.2010 19:39:58: StreamDecoder joined id = 94680528
+16.06.2010 19:43:08: ====starting=====
+16.06.2010 19:43:18: StreamDecoder joined id = 13342728
+16.06.2010 19:44:02: StreamDecoder joined id = 13340696
+16.06.2010 19:48:48: StreamDecoder joined id = 77135416
+16.06.2010 19:49:20: ====starting=====
+16.06.2010 19:50:34: ====starting=====
+16.06.2010 19:56:14: StreamDecoder joined id = 13342192
+16.06.2010 19:56:21: StreamDecoder joined id = 13341920
+16.06.2010 20:01:11: ====starting=====
+16.06.2010 20:03:27: StreamDecoder joined id = 13342728
+16.06.2010 20:04:47: StreamDecoder joined id = 13340584
+16.06.2010 20:06:02: StreamDecoder joined id = 13340584
+17.06.2010 10:28:24: ====starting=====
+17.06.2010 10:28:33: StreamDecoder joined id = 93633816
+17.06.2010 10:31:02: ====starting=====
+17.06.2010 11:10:31: StreamDecoder joined id = 93666936
+17.06.2010 11:15:00: StreamDecoder joined id = 89466960
+17.06.2010 11:16:06: StreamDecoder joined id = 89467400
+17.06.2010 11:16:40: StreamDecoder joined id = 89465304
+17.06.2010 11:17:19: StreamDecoder joined id = 89464928
+17.06.2010 11:24:52: StreamDecoder joined id = 89464928
+17.06.2010 11:39:07: StreamDecoder joined id = 89466888
+17.06.2010 11:45:58: StreamDecoder joined id = 89466888
+17.06.2010 11:50:46: StreamDecoder joined id = 13353056
+17.06.2010 12:01:36: StreamDecoder joined id = 89466024
+17.06.2010 14:52:34: ====starting=====
+17.06.2010 14:54:37: StreamDecoder joined id = 13339808
+17.06.2010 15:21:59: StreamDecoder joined id = 84358688
+17.06.2010 15:22:17: StreamDecoder joined id = 84358312
+17.06.2010 15:57:48: StreamDecoder joined id = 84358312
+18.06.2010 17:27:57: ====starting=====
+18.06.2010 17:40:09: ====starting=====
+18.06.2010 17:40:45: StreamDecoder joined id = 13339808
+18.06.2010 17:41:04: StreamDecoder joined id = 77772632
+21.06.2010 11:48:22: ====starting=====
+21.06.2010 11:48:37: StreamDecoder joined id = 13340232
+21.06.2010 11:48:42: StreamDecoder joined id = 13342448
+21.06.2010 11:48:45: StreamDecoder joined id = 13342448
+25.06.2010 10:53:13: ====starting=====
+28.06.2010 12:31:44: ====starting=====
+28.06.2010 12:44:25: ====starting=====
+28.06.2010 12:44:31: StreamDecoder joined id = 12751984
+28.06.2010 12:59:40: ====starting=====
+28.06.2010 16:15:21: ====starting=====
+28.06.2010 18:19:32: ====starting=====
+28.06.2010 18:20:00: ====starting=====
+28.06.2010 18:20:15: StreamDecoder joined id = 12751984
+28.06.2010 18:22:54: StreamDecoder joined id = 12752832
+28.06.2010 18:24:17: StreamDecoder joined id = 33976584
+28.06.2010 18:25:00: StreamDecoder joined id = 12777480
+28.06.2010 18:25:18: StreamDecoder joined id = 34280056
+28.06.2010 18:28:31: StreamDecoder joined id = 34556936
+28.06.2010 18:31:08: ====starting=====
+28.06.2010 18:31:27: ====starting=====
+28.06.2010 18:31:53: StreamDecoder joined id = 12752736
+28.06.2010 18:33:47: StreamDecoder joined id = 34059600
+28.06.2010 18:35:00: StreamDecoder joined id = 34556936
+28.06.2010 18:35:06: StreamDecoder joined id = 34556936
+28.06.2010 18:35:09: StreamDecoder joined id = 34059600
+28.06.2010 18:35:24: StreamDecoder joined id = 34556936
+28.06.2010 18:35:36: StreamDecoder joined id = 34556936
+28.06.2010 18:39:08: StreamDecoder joined id = 34123872
+28.06.2010 18:40:06: StreamDecoder joined id = 34556936
+28.06.2010 18:42:34: ====starting=====
+28.06.2010 18:42:58: StreamDecoder joined id = 93654696
+28.06.2010 18:46:30: StreamDecoder joined id = 12750352
+28.06.2010 18:48:11: StreamDecoder joined id = 93654640
+28.06.2010 18:48:19: StreamDecoder joined id = 93654640
+28.06.2010 18:54:32: StreamDecoder joined id = 93654640
+28.06.2010 19:05:06: ====starting=====
+28.06.2010 19:07:27: StreamDecoder joined id = 76849552
+28.06.2010 19:20:21: StreamDecoder joined id = 77426088
+28.06.2010 19:20:47: StreamDecoder joined id = 77426016
+28.06.2010 19:30:25: ====starting=====
+28.06.2010 19:30:47: StreamDecoder joined id = 12752904
+28.06.2010 19:32:42: StreamDecoder joined id = 79045968
+28.06.2010 19:32:57: StreamDecoder joined id = 79045968
+29.06.2010 10:12:41: ====starting=====
+29.06.2010 10:19:15: ====starting=====
+29.06.2010 17:06:21: ====starting=====
+29.06.2010 17:06:46: StreamDecoder joined id = 94747424
+29.06.2010 19:16:56: ====starting=====
+29.06.2010 19:19:40: StreamDecoder joined id = 12749984
+29.06.2010 19:20:57: StreamDecoder joined id = 81116520
+29.06.2010 19:23:09: StreamDecoder joined id = 81116520
+29.06.2010 19:29:04: ====starting=====
+29.06.2010 19:30:54: StreamDecoder joined id = 86291952
+29.06.2010 19:31:25: ====starting=====
+29.06.2010 19:33:40: StreamDecoder joined id = 81116520
+29.06.2010 19:34:29: StreamDecoder joined id = 81116352
+29.06.2010 19:39:25: ====starting=====
+29.06.2010 19:51:17: StreamDecoder joined id = 12752416
+29.06.2010 19:52:55: StreamDecoder joined id = 60067936
+29.06.2010 19:54:00: StreamDecoder joined id = 12754656
+29.06.2010 19:54:29: StreamDecoder joined id = 12754656
+29.06.2010 19:55:07: StreamDecoder joined id = 12750336
+29.06.2010 20:10:13: StreamDecoder joined id = 12750336
+29.06.2010 20:33:06: StreamDecoder joined id = 60043464
+30.06.2010 10:17:56: ====starting=====
+30.06.2010 10:19:37: StreamDecoder joined id = 94681832
+30.06.2010 10:37:45: StreamDecoder joined id = 12750352
+30.06.2010 10:41:47: StreamDecoder joined id = 94679752
+30.06.2010 10:49:14: StreamDecoder joined id = 94679752
+30.06.2010 10:53:53: StreamDecoder joined id = 94679752
+30.06.2010 11:11:01: ====starting=====
+30.06.2010 11:13:24: StreamDecoder joined id = 77974992
+30.06.2010 11:23:26: StreamDecoder joined id = 94681832
+30.06.2010 11:41:57: StreamDecoder joined id = 94681832
+30.06.2010 11:58:23: StreamDecoder joined id = 94681832
+30.06.2010 12:06:01: StreamDecoder joined id = 94679752
+30.06.2010 12:29:02: ====starting=====
+30.06.2010 12:29:41: StreamDecoder joined id = 12751984
+30.06.2010 12:29:58: StreamDecoder joined id = 94679752
+30.06.2010 14:03:31: StreamDecoder joined id = 12749984
+30.06.2010 14:03:33: StreamDecoder joined id = 34195080
+30.06.2010 14:05:32: StreamDecoder joined id = 12750576
+30.06.2010 14:05:47: StreamDecoder joined id = 12750576
+30.06.2010 14:13:54: ====starting=====
+30.06.2010 14:14:24: StreamDecoder joined id = 90498016
+30.06.2010 14:14:46: StreamDecoder joined id = 90454744
+30.06.2010 14:15:16: StreamDecoder joined id = 90454792
+30.06.2010 14:17:18: StreamDecoder joined id = 90454792
+30.06.2010 14:26:00: StreamDecoder joined id = 90454840
+30.06.2010 14:31:49: StreamDecoder joined id = 90454560
+30.06.2010 14:31:59: StreamDecoder joined id = 90454560
+30.06.2010 14:34:21: StreamDecoder joined id = 90454936
+30.06.2010 14:38:36: StreamDecoder joined id = 90455032
+30.06.2010 14:41:02: ====starting=====
+30.06.2010 14:42:54: StreamDecoder joined id = 78942304
+30.06.2010 14:43:00: StreamDecoder joined id = 90455032
+30.06.2010 14:44:44: StreamDecoder joined id = 90455032
+30.06.2010 14:44:57: StreamDecoder joined id = 90454752
+30.06.2010 14:48:57: StreamDecoder joined id = 90454920
+30.06.2010 14:55:10: StreamDecoder joined id = 90454920
+30.06.2010 14:57:42: StreamDecoder joined id = 90452120
+30.06.2010 15:05:58: StreamDecoder joined id = 90453824
+30.06.2010 15:08:18: StreamDecoder joined id = 90452120
+30.06.2010 15:11:44: StreamDecoder joined id = 90453824
+30.06.2010 15:14:24: StreamDecoder joined id = 90454752
+30.06.2010 15:23:16: StreamDecoder joined id = 90453824
+30.06.2010 15:26:06: StreamDecoder joined id = 90452120
+30.06.2010 15:28:29: StreamDecoder joined id = 90452120
+30.06.2010 15:30:53: StreamDecoder joined id = 90452120
+30.06.2010 15:56:34: StreamDecoder joined id = 90453824
+01.07.2010 16:15:48: ====starting=====
+01.07.2010 16:16:28: StreamDecoder joined id = 12752992
+01.07.2010 17:34:36: StreamDecoder joined id = 12753200
+01.07.2010 17:43:43: StreamDecoder joined id = 12753296
+02.07.2010 18:54:11: ====starting=====
+02.07.2010 18:57:30: StreamDecoder joined id = 12764608
+02.07.2010 18:57:56: StreamDecoder joined id = 12764608
+06.07.2010 11:43:20: ====starting=====
+06.07.2010 12:18:44: ====starting=====
+06.07.2010 12:30:40: StreamDecoder joined id = 93500888
+06.07.2010 18:50:51: ====starting=====
+06.07.2010 18:51:28: StreamDecoder joined id = 12752992
+06.07.2010 18:51:39: StreamDecoder joined id = 93473560
+06.07.2010 19:03:40: StreamDecoder joined id = 93956816
+06.07.2010 19:03:48: StreamDecoder joined id = 93956816
+06.07.2010 19:03:53: StreamDecoder joined id = 93956984
+06.07.2010 19:04:24: StreamDecoder joined id = 93956984
+06.07.2010 19:09:01: StreamDecoder joined id = 93956984
+06.07.2010 19:09:58: ====starting=====
+06.07.2010 19:22:33: StreamDecoder joined id = 12752648
+06.07.2010 19:23:51: StreamDecoder joined id = 39249912
+06.07.2010 19:31:06: ====starting=====
+06.07.2010 19:31:25: StreamDecoder joined id = 12752392
+06.07.2010 19:32:02: StreamDecoder joined id = 12752256
+06.07.2010 19:33:11: StreamDecoder joined id = 12751088
+07.07.2010 16:36:46: ====starting=====
+07.07.2010 18:47:35: StreamDecoder joined id = 13342984
+09.07.2010 11:30:53: ====starting=====
+09.07.2010 11:32:14: StreamDecoder joined id = 12750360
+09.07.2010 11:46:28: ====starting=====
+09.07.2010 11:59:40: ====starting=====
+09.07.2010 17:42:10: StreamDecoder joined id = 12752720
+09.07.2010 17:42:10: StreamDecoder joined id = 12774608
+09.07.2010 17:42:18: StreamDecoder joined id = 12775576
+09.07.2010 17:42:18: StreamDecoder joined id = 12773776
+09.07.2010 17:43:43: StreamDecoder joined id = 12775576
+09.07.2010 17:43:43: StreamDecoder joined id = 12777384
+12.07.2010 14:54:05: ====starting=====
+12.07.2010 14:54:32: StreamDecoder joined id = 12752904
+12.07.2010 17:22:49: ====starting=====
+12.07.2010 18:21:26: ====starting=====
+12.07.2010 18:55:16: StreamDecoder joined id = 12752728
+12.07.2010 18:55:32: StreamDecoder joined id = 12752816
+12.07.2010 18:55:51: StreamDecoder joined id = 12751984
+12.07.2010 18:57:46: StreamDecoder joined id = 12751984
+12.07.2010 19:01:04: StreamDecoder joined id = 12751984
+12.07.2010 19:03:59: StreamDecoder joined id = 12751816
+12.07.2010 19:04:09: StreamDecoder joined id = 12751816
+12.07.2010 19:04:18: StreamDecoder joined id = 12751984
+12.07.2010 19:07:08: StreamDecoder joined id = 77902088
+12.07.2010 19:07:40: StreamDecoder joined id = 77901920
+12.07.2010 19:10:10: StreamDecoder joined id = 77901920
+12.07.2010 19:10:29: StreamDecoder joined id = 77901920
+13.07.2010 12:04:25: ====starting=====
+13.07.2010 12:08:40: StreamDecoder joined id = 12753072
+13.07.2010 12:20:38: StreamDecoder joined id = 76904216
+13.07.2010 12:23:28: StreamDecoder joined id = 76904216
+13.07.2010 12:44:38: StreamDecoder joined id = 76904216
+13.07.2010 12:44:59: StreamDecoder joined id = 76904216
+13.07.2010 16:16:31: ====starting=====
+13.07.2010 16:18:27: StreamDecoder joined id = 94643536
+13.07.2010 16:18:31: StreamDecoder joined id = 94646360
+13.07.2010 16:18:35: StreamDecoder joined id = 94643368
+13.07.2010 16:18:42: StreamDecoder joined id = 94643368
+13.07.2010 16:18:51: StreamDecoder joined id = 94643368
+13.07.2010 16:18:54: StreamDecoder joined id = 94643368
+13.07.2010 17:27:42: ====starting=====
+13.07.2010 17:28:53: StreamDecoder joined id = 93654016
+13.07.2010 17:30:27: StreamDecoder joined id = 93654224
+13.07.2010 17:30:35: StreamDecoder joined id = 93653848
+13.07.2010 17:31:05: StreamDecoder joined id = 93653848
+13.07.2010 17:37:35: ====starting=====
+13.07.2010 17:42:20: ====starting=====
+13.07.2010 17:42:54: StreamDecoder joined id = 12752488
+13.07.2010 17:43:15: StreamDecoder joined id = 12752736
+13.07.2010 17:47:15: StreamDecoder joined id = 12752360
+13.07.2010 17:48:35: StreamDecoder joined id = 12752360
+13.07.2010 19:11:20: StreamDecoder joined id = 12750528
+13.07.2010 19:11:28: StreamDecoder joined id = 34091104
+13.07.2010 19:11:28: StreamDecoder joined id = 34092816
+13.07.2010 19:11:36: StreamDecoder joined id = 34091272
+13.07.2010 19:11:36: StreamDecoder joined id = 34078880
+13.07.2010 19:11:36: StreamDecoder joined id = 34153032
+13.07.2010 19:11:45: StreamDecoder joined id = 34078880
+13.07.2010 19:11:45: StreamDecoder joined id = 34180832
+13.07.2010 19:11:45: StreamDecoder joined id = 34174840
+13.07.2010 19:11:52: StreamDecoder joined id = 34127248
+13.07.2010 19:11:52: StreamDecoder joined id = 34126800
+13.07.2010 19:11:52: StreamDecoder joined id = 34091376
+13.07.2010 19:12:05: StreamDecoder joined id = 34127248
+13.07.2010 19:12:05: StreamDecoder joined id = 34126688
+13.07.2010 19:12:05: StreamDecoder joined id = 34091176
+13.07.2010 19:13:49: StreamDecoder joined id = 12752192
+13.07.2010 19:13:49: StreamDecoder joined id = 34091104
+13.07.2010 19:13:49: StreamDecoder joined id = 34410736
+13.07.2010 19:14:27: StreamDecoder joined id = 34092704
+14.07.2010 18:03:56: ====starting=====
+14.07.2010 18:05:55: StreamDecoder joined id = 12751392
+14.07.2010 19:06:58: StreamDecoder joined id = 12750208
+14.07.2010 19:11:02: StreamDecoder joined id = 12753520
+14.07.2010 19:29:40: ====starting=====
+14.07.2010 19:35:45: StreamDecoder joined id = 77900824
+14.07.2010 20:47:02: ====starting=====
+14.07.2010 20:54:22: ====starting=====
+14.07.2010 20:54:40: StreamDecoder joined id = 12777392
+14.07.2010 20:58:43: StreamDecoder joined id = 90523168
+14.07.2010 20:58:44: StreamDecoder joined id = 12777088
+14.07.2010 21:00:54: StreamDecoder joined id = 12777088
+14.07.2010 21:04:16: StreamDecoder joined id = 91242248
+14.07.2010 21:05:45: StreamDecoder joined id = 12777088
+14.07.2010 21:09:16: StreamDecoder joined id = 71257440
+14.07.2010 21:13:09: StreamDecoder joined id = 71257440
+14.07.2010 21:16:54: StreamDecoder joined id = 71257440
+14.07.2010 21:26:03: StreamDecoder joined id = 12778416
+14.07.2010 21:46:57: ====starting=====
+14.07.2010 21:48:10: ====starting=====
+14.07.2010 21:48:37: StreamDecoder joined id = 12752904
+14.07.2010 21:55:02: StreamDecoder joined id = 12753184
+14.07.2010 21:56:25: StreamDecoder joined id = 12750600
+14.07.2010 22:00:37: StreamDecoder joined id = 12750600
+14.07.2010 22:10:25: StreamDecoder joined id = 12753048
+14.07.2010 22:10:49: StreamDecoder joined id = 12752880
+15.07.2010 10:06:31: ====starting=====
+15.07.2010 10:08:52: ====starting=====
+15.07.2010 10:09:44: StreamDecoder joined id = 12751984
+15.07.2010 10:09:53: StreamDecoder joined id = 12753880
+15.07.2010 10:10:06: StreamDecoder joined id = 12753872
+15.07.2010 10:10:22: StreamDecoder joined id = 12754040
+15.07.2010 11:03:13: StreamDecoder joined id = 12752968
+15.07.2010 11:24:32: ====starting=====
+15.07.2010 11:25:43: StreamDecoder joined id = 12773264
+15.07.2010 11:28:58: StreamDecoder joined id = 78187864
+15.07.2010 11:31:13: StreamDecoder joined id = 12766632
+15.07.2010 11:34:19: StreamDecoder joined id = 12766632
+15.07.2010 11:39:24: StreamDecoder joined id = 12766728
+15.07.2010 11:39:29: StreamDecoder joined id = 78049376
+15.07.2010 11:42:18: StreamDecoder joined id = 78049376
+15.07.2010 11:45:22: StreamDecoder joined id = 78187784
+15.07.2010 11:46:08: StreamDecoder joined id = 12766448
+15.07.2010 11:50:42: StreamDecoder joined id = 78187784
+15.07.2010 11:56:19: StreamDecoder joined id = 12766448
+15.07.2010 14:03:30: StreamDecoder joined id = 78187784
+15.07.2010 14:51:21: StreamDecoder joined id = 78187784
+15.07.2010 15:57:45: StreamDecoder joined id = 12777120
+15.07.2010 15:57:54: StreamDecoder joined id = 12777288
+15.07.2010 15:58:32: StreamDecoder joined id = 12777288
+15.07.2010 16:46:13: StreamDecoder joined id = 12777400
+15.07.2010 16:50:24: StreamDecoder joined id = 12777400
+15.07.2010 16:52:14: StreamDecoder joined id = 12778384
+15.07.2010 16:54:03: StreamDecoder joined id = 12766768
+15.07.2010 16:55:13: StreamDecoder joined id = 12778216
+15.07.2010 16:55:54: StreamDecoder joined id = 12778216
+15.07.2010 16:59:23: StreamDecoder joined id = 12778216
+15.07.2010 17:01:37: StreamDecoder joined id = 12778384
+15.07.2010 17:13:34: StreamDecoder joined id = 12778384
+15.07.2010 17:14:39: StreamDecoder joined id = 12778384
+15.07.2010 17:16:10: StreamDecoder joined id = 12779136
+15.07.2010 17:18:31: StreamDecoder joined id = 12779136
+15.07.2010 17:22:44: StreamDecoder joined id = 12779136
+15.07.2010 17:26:24: StreamDecoder joined id = 12779136
+15.07.2010 17:26:32: StreamDecoder joined id = 12779304
+15.07.2010 17:26:59: StreamDecoder joined id = 12779304
+15.07.2010 17:28:35: StreamDecoder joined id = 12779304
+15.07.2010 17:29:34: StreamDecoder joined id = 12779304
+09.08.2010 16:00:49: ====starting=====
