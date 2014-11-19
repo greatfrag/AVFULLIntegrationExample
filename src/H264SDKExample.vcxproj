@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectName>AVFULLIntegrationExample</ProjectName>
+    <ProjectGuid>{2E7B69A1-5D66-4490-B4B2-6365C678C382}</ProjectGuid>
+    <RootNamespace>H264SDKExample</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v110</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v110</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>11.0.61030.0</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>../executable\</OutDir>
+    <IntDir>Debug\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>../executable\</OutDir>
+    <IntDir>Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;OT_MT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>../executable/AVFULLIntegration.exe</OutputFile>
+      <AdditionalLibraryDirectories>./viewsupport;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <Midl>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+    </Midl>
+    <ResourceCompile>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;OT_MT;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>../executable/AVFULLIntegration.exe</OutputFile>
+      <AdditionalLibraryDirectories>./viewsupport;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+    <Midl>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+    </Midl>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <Culture>0x0409</Culture>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="CamOptDlg.cpp" />
+    <ClCompile Include="DiscoveryDlg.cpp" />
+    <ClCompile Include="H264SDKExample.cpp" />
+    <ClCompile Include="H264SDKExampleDlg.cpp" />
+    <ClCompile Include="RegDialog.cpp" />
+    <ClCompile Include="RegText.cpp" />
+    <ClCompile Include="SButton.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="VideoDlg.cpp" />
+    <ClCompile Include="sdk_dll\AVLoadDll.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="common\Console.cpp" />
+    <ClCompile Include="common\Runnable.cpp" />
+    <ClCompile Include="common\WinCriticalSection.cpp" />
+    <ClCompile Include="common\WinEvent.cpp" />
+    <ClCompile Include="decoder\videodecoder.cpp" />
+    <ClCompile Include="streamcore\streamviewer.cpp" />
+    <ClCompile Include="streamcore\stremdecoder.cpp" />
+    <ClCompile Include="streamcore\readers\streamreader.cpp" />
+    <ClCompile Include="streamcore\readers\client_pull\cpull_stremreader.cpp" />
+    <ClCompile Include="streamcore\readers\client_pull\http\httpstremreader.cpp">
+      <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(IntDir)%(Filename)1.obj</ObjectFileName>
+      <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(IntDir)%(Filename)1.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="streamcore\readers\client_pull\http\panoramic_httpstremreader.cpp" />
+    <ClCompile Include="streamcore\readers\client_pull\tftp\panoramic_h264_tftpstremreader.cpp">
+      <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(IntDir)%(Filename)1.obj</ObjectFileName>
+      <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(IntDir)%(Filename)1.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="streamcore\readers\client_pull\tftp\panoramic_tftpstremreader.cpp">
+      <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(IntDir)%(Filename)1.obj</ObjectFileName>
+      <ObjectFileName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(IntDir)%(Filename)1.obj</ObjectFileName>
+    </ClCompile>
+    <ClCompile Include="streamcore\readers\client_pull\tftp\ss_tftpstremreader.cpp" />
+    <ClCompile Include="streamcore\readers\server_push\spush_stremreader.cpp" />
+    <ClCompile Include="streamcore\readers\server_push\http\panoramic_push_httpstremreader.cpp" />
+    <ClCompile Include="streamcore\readers\server_push\http\ss_push_httpstremreader.cpp" />
+    <ClCompile Include="streamcore\readers\server_push\rtp\rtsp_session.cpp" />
+    <ClCompile Include="viewsupport\DirectDrawer.cpp" />
+    <ClCompile Include="cameramodel\cameramodel.cpp" />
+    <ClCompile Include="statistics\statistic.cpp" />
+    <ClCompile Include="network\ipaddress.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="network\simple_http_client.cpp" />
+    <ClCompile Include="network\simple_tftp_client.cpp" />
+    <ClCompile Include="network\socket.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="discovery\cam_attributes_geter.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="discovery\cam_searcher.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="discovery\discovery.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RegText.h" />
+    <ClInclude Include="SButton.h" />
+    <ClInclude Include="CamOptDlg.h" />
+    <ClInclude Include="DiscoveryDlg.h" />
+    <ClInclude Include="H264SDKExample.h" />
+    <ClInclude Include="H264SDKExampleDlg.h" />
+    <ClInclude Include="RegDialog.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="VideoDlg.h" />
+    <ClInclude Include="sdk_dll\AV2000Types.h" />
+    <ClInclude Include="sdk_dll\AVLoadDll.h" />
+    <ClInclude Include="common\Console.h" />
+    <ClInclude Include="common\Runnable.h" />
+    <ClInclude Include="common\Semaphore.h" />
+    <ClInclude Include="common\ThreadQueue.h" />
+    <ClInclude Include="common\types.h" />
+    <ClInclude Include="common\WinCriticalSection.h" />
+    <ClInclude Include="common\WinEvent.h" />
+    <ClInclude Include="decoder\videodecoder.h" />
+    <ClInclude Include="streamcore\streamviewer.h" />
+    <ClInclude Include="streamcore\stremdecoder.h" />
+    <ClInclude Include="streamcore\readers\streamreader.h" />
+    <ClInclude Include="streamcore\readers\client_pull\cpull_stremreader.h" />
+    <ClInclude Include="streamcore\readers\client_pull\http\httpstremreader.h" />
+    <ClInclude Include="streamcore\readers\client_pull\http\panoramic_httpstremreader.h" />
+    <ClInclude Include="streamcore\readers\client_pull\tftp\panoramic_h264_tftpstremreader.h" />
+    <ClInclude Include="streamcore\readers\client_pull\tftp\panoramic_tftpstremreader.h" />
+    <ClInclude Include="streamcore\readers\client_pull\tftp\ss_tftpstremreader.h" />
+    <ClInclude Include="streamcore\readers\server_push\spush_stremreader.h" />
+    <ClInclude Include="streamcore\readers\server_push\http\panoramic_push_httpstremreader.h" />
+    <ClInclude Include="streamcore\readers\server_push\http\ss_push_httpstremreader.h" />
+    <ClInclude Include="streamcore\readers\server_push\rtp\rtsp_session.h" />
+    <ClInclude Include="frameinfo\frame.h" />
+    <ClInclude Include="frameinfo\framedata.h" />
+    <ClInclude Include="frameinfo\frameinfo.h" />
+    <ClInclude Include="frameinfo\stream.h" />
+    <ClInclude Include="viewsupport\colorspace.h" />
+    <ClInclude Include="viewsupport\DirectDrawer.h" />
+    <ClInclude Include="viewsupport\FrameDrawer.h" />
+    <ClInclude Include="viewsupport\GeneralDefines.h" />
+    <ClInclude Include="viewsupport\GeneralTypes.h" />
+    <ClInclude Include="cameramodel\cameramodel.h" />
+    <ClInclude Include="statistics\statistic.h" />
+    <ClInclude Include="network\ipaddress.h" />
+    <ClInclude Include="network\simple_http_client.h" />
+    <ClInclude Include="network\simple_tftp_client.h" />
+    <ClInclude Include="network\socket.h" />
+    <ClInclude Include="discovery\cam_attributes_geter.h" />
+    <ClInclude Include="discovery\cam_searcher.h" />
+    <ClInclude Include="discovery\camera.h" />
+    <ClInclude Include="discovery\discovery.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resource.hm" />
+    <None Include="res\H264SDKExample.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="bitmap1.bmp" />
+    <Image Include="res\H264SDKExample.ico" />
+    <Image Include="res\ico00001.ico" />
+    <Image Include="res\idr_gree.ico" />
+    <Image Include="res\idr_main.ico" />
+    <Image Include="red1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="H264SDKExample.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="res\H264SDKExample.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="H264SDKExample.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
