@@ -22,6 +22,7 @@ void Runnable::stop()
 	join();
 }
 
+// invoke a thread to call virtual function run()
 void Runnable::start()
 {
 	if (m_Stream)
@@ -31,6 +32,15 @@ void Runnable::start()
 	unsigned int dwID;
 	m_needExit = false;
 	m_isRuning = true;
+  /*  XXX:
+  uintptr_t _beginthreadex( // NATIVE CODE
+   void *security,
+   unsigned stack_size,
+   unsigned ( __stdcall *start_address )( void * ),
+   void *arglist,
+   unsigned initflag,
+   unsigned *thrdaddr 
+);*/
 	m_Stream = (HANDLE)_beginthreadex(NULL, 0, StreamFunc, this, 0, &dwID);
 	SetThreadPriority(m_Stream, mPriority);
 }
@@ -50,7 +60,7 @@ unsigned __stdcall Runnable::StreamFunc(void *This)
 	Runnable* This_ = reinterpret_cast<Runnable*>(This);
 	This_->run();
 	This_->m_isRuning = false;
-	This_->m_joinEvent.SetEvent();
+	This_->m_joinEvent.SetEvent();  // ???
 	return 0;
 }
 

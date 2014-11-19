@@ -122,9 +122,10 @@ void DiscoveryDlg::OnBnClickedFindBtn()
 	// before each search we should update loacal ip info 
 	IpAddress::getLocalIpAddresses(true);
 	
-	
+	// XXX: find all cameras and store into the camList
 	camList = findAllCameras();
 
+    // XXX: clear Warnings and check conflicts and raise Warnings
 	clearCamAlerts(convertCamList(camList));
 	checkConflicts(convertCamList(camList));
 
@@ -146,6 +147,7 @@ void DiscoveryDlg::OnBnClickedFindBtn()
 	{
 		CameraInfo cam = it->second;
 
+        // add cameras to the display
 		addCamera(index, cam, "");
 
 		++index;

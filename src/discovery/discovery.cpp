@@ -74,6 +74,7 @@ CameraList findAllCameras()
 
 	CamSearcher camsercher[number_os_serchers];
 
+    // XXX: start multiple threads to find cameras
 	for (i = 0; i < number_os_serchers; ++i)
 		camsercher[i].start();
 
@@ -82,6 +83,7 @@ CameraList findAllCameras()
 		Sleep(5); // to avoid 100% one core cpu usage
 		bool need_break = true;
 
+        // XXX: check if all threads are done
 		for (i = 0; i < number_os_serchers; ++i)
 			if (camsercher[i].isRuning())
 			{
@@ -206,8 +208,8 @@ void checkConflicts(CameraPointerList& cams)
 	for (cams_it = cams.begin(); cams_it!=cams.end();++cams_it)
 	{
 		CameraInfo& info = *(cams_it->second);
-		ShortList* sl = &ipl[info.ip];
-		sl->push_back(&info);
+		ShortList* sl = &ipl[info.ip];  // find the item list in the table using ip
+		sl->push_back(&info);   // add to the end of the item list
 
 	}
 
