@@ -177,6 +177,8 @@ void CH264SDKExampleDlg::DoDataExchange(CDataExchange* pDX)
 	DDX_Control(pDX, IDC_CHECK_NIGHT_BINNING, m_nightBinningCheck);
 	DDX_Control(pDX, IDC_CHECK_1080P_MODE, m_1080pModeCheck);
 	DDX_Control(pDX, IDC_CAPTURE_EN_CHK2, m_doublescan_chk);
+	DDX_Control(pDX, IDC_CAPTURE_EN_CHK3, m_scaledimage_chk);
+	DDX_Control(pDX, IDC_CAPTURE_EN_CHK4, m_flexiblecropping_chk);
 }
 
 BEGIN_MESSAGE_MAP(CH264SDKExampleDlg, CDialog)
@@ -212,6 +214,8 @@ BEGIN_MESSAGE_MAP(CH264SDKExampleDlg, CDialog)
 	ON_BN_CLICKED(IDC_CHECK_1080P_MODE, OnBnClickedCheck1080pMode)
 	ON_BN_CLICKED(IDC_REGISTER_BUTTON, OnBnClickedRegisterButton)
 	ON_BN_CLICKED(IDC_CAPTURE_EN_CHK2, &CH264SDKExampleDlg::OnBnClickedCaptureEnChk2)
+	ON_BN_CLICKED(IDC_CAPTURE_EN_CHK3, &CH264SDKExampleDlg::OnBnClickedCaptureEnChk3)
+	ON_BN_CLICKED(IDC_CAPTURE_EN_CHK4, &CH264SDKExampleDlg::OnBnClickedCaptureEnChk4)
 END_MESSAGE_MAP()
 
 
@@ -563,6 +567,7 @@ void CH264SDKExampleDlg::OnBnClickedOk()
 			params.capture_trigger = 0;
 			params.fmversion = sdk_version;
 			params.doublescan = m_doublescan_chk.GetCheck()?1:0;
+			params.scaledimage = m_scaledimage_chk.GetCheck();
 			if (clients > 1) params.client = i+1;
 			else params.client = 0;
 
@@ -601,6 +606,12 @@ void CH264SDKExampleDlg::OnBnClickedOk()
 
 		m_ConnType.EnableWindow(FALSE);
 		m_videoStartButton.SetWindowText("Stop");
+
+		if(m_ConnType.GetCurSel() == 4)
+		{
+			m_scaledimage_chk.SetCheck(FALSE);
+			m_scaledimage_chk.EnableWindow(FALSE);
+		}
 	}
 	else
 	{
@@ -636,7 +647,7 @@ void CH264SDKExampleDlg::OnBnClickedOk()
 		m_dnDay.EnableWindow(TRUE);
 		m_dnNight.EnableWindow(TRUE);
 
-
+		m_scaledimage_chk.EnableWindow(TRUE);
 	}
 }
 
@@ -809,7 +820,7 @@ int CH264SDKExampleDlg::getResolutionHeight()
 	case 2:
 		return 1200;
 	case 3:
-		return 1088;
+		return 1080;
 	case 4:
 		return 1536;
 	case 5:
@@ -1220,4 +1231,52 @@ void CH264SDKExampleDlg::OnBnClickedCaptureEnChk2()
 
 	}
 
+}
+
+
+void CH264SDKExampleDlg::OnBnClickedCaptureEnChk3()
+{
+	// TODO: Add your control notification handler code here
+	bool checked = m_scaledimage_chk.GetCheck();
+
+	SimpleHTTPClient http_client(getCamIp(m_ip));
+	std::ostringstream os;
+	if (checked)
+		os << "set?scaling="<< "on";
+	else
+		os << "set?scaling="<< "off";
+
+
+	http_client.setRequestLine(os.str());
+	http_client.openStream();
+
+	
+	for (readers::iterator it = m_readers.begin(); it!=m_readers.end(); ++it)
+	{
+		Streamreader* reader = *it;
+
+		StreamParams params = reader->getStreamParam();
+		params.scaledimage = checked;
+		reader->setStreamParams(params);
+
+	}
+
+}
+
+
+void CH264SDKExampleDlg::OnBnClickedCaptureEnChk4()
+{
+	// TODO: Add your control notification handler code here
+	bool checked = m_flexiblecropping_chk.GetCheck();
+
+	SimpleHTTPClient http_client(getCamIp(m_ip));
+	std::ostringstream os;
+	if (checked)
+		os << "set?cropping="<< "on";
+	else
+		os << "set?cropping="<< "off";
+
+
+	http_client.setRequestLine(os.str());
+	http_client.openStream();
 }

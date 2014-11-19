@@ -73,6 +73,9 @@ const char* SSHTTPStreamreader::getImageFromCam(unsigned long& size, long IsPerc
 			os <<"&bitrate=" << param.bitrate;
 	}
 
+	if(param.scaledimage)
+		os << "&channel=scaled";
+
 
 
 

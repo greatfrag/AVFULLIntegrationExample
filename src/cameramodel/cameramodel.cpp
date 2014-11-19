@@ -19,7 +19,7 @@ void CameraModel::init()
 	CameraOptions av2105(AV2105,1600,1200,true,1);
 	add(av2105);
 
-	CameraOptions av2805(AV2805,1920,1088,true,1);
+	CameraOptions av2805(AV2805,1920,1080,true,1);
 	add(av2805);
 
 
@@ -60,11 +60,23 @@ void CameraModel::init()
 	CameraOptions av12366(AV12366,2048,1536,true,4);
 	add(av12366);
 
-	CameraOptions av20185(AV20185,2592,1944,true,4);
+	CameraOptions av20185(AV20185,2560,1920,true,4);
 	add(av20185);
 
-	CameraOptions av20365(AV20365,2592,1944,true,4);
+	CameraOptions av20365(AV20365,2560,1920,true,4);
 	add(av20365);
+
+	CameraOptions av12176(AV12176,2048,1536,true,4);
+	add(av12176);
+
+	CameraOptions av20175(AV20175,2560,1920,true,4);
+	add(av20175);
+
+	CameraOptions av40185(AV40185,3648,2752,true,4);
+	add(av40185);
+
+	CameraOptions av5185(AV5185,1280,960,true,4);
+	add(av5185);
 
 }
 

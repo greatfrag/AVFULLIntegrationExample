@@ -137,6 +137,8 @@ public:
 private:
 	CButton m_capture_en_chk;
 	CButton m_doublescan_chk;
+	CButton m_scaledimage_chk;
+	CButton m_flexiblecropping_chk;
 	CButton m_capture_btn;
 	CEdit m_capture_num_edit;
 
@@ -154,4 +156,6 @@ public:
 	afx_msg void OnBnClickedCheckNightBinning();
 	afx_msg void OnBnClickedCheck1080pMode();
 	afx_msg void OnBnClickedRegisterButton();
+	afx_msg void OnBnClickedCaptureEnChk3();
+	afx_msg void OnBnClickedCaptureEnChk4();
 };

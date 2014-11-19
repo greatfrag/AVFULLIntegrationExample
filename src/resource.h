@@ -27,7 +27,9 @@
 #define IDC_DESCRIPTION_EDIT            1008
 #define IDC_CAPTURE_NUM_EDIT            1008
 #define IDC_REGEDIT                     1008
+#define IDC_CAPTURE_EN_CHK3             1009
 #define IDC_EDIT2                       1010
+#define IDC_CAPTURE_EN_CHK4             1010
 #define IDC_EDIT3                       1012
 #define IDC_EDIT4                       1013
 #define IDC_RES_COMBO                   1017

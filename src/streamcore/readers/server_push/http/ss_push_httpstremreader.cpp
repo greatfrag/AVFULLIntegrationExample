@@ -170,6 +170,9 @@ void SSHTTPPushStreamreader::openStream(StreamParams& param)
 			os <<"&bitrate=" << param.bitrate;
 	}
 
+	if (param.scaledimage)
+		os << "&channel=scaled";
+
 
 
 	m_http_client = new SimpleHTTPClient(m_cam_ip);

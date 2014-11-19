@@ -26,6 +26,7 @@ struct StreamParams
 		left = -1;
 		light = AV_HZ_Unknown;
 		doublescan = 0;
+		scaledimage = false;
 	}
 
 	int left;
@@ -42,6 +43,8 @@ struct StreamParams
 	int IntraFramePeriod;
 	int bitrate; // if bitrate more than zerro, then  quality is ignored
 	int doublescan;	// if doublescan
+	
+	bool scaledimage; //if scaled image
 
 	int stream_id; // only for H264 streams
 
