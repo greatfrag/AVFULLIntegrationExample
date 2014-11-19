@@ -78,6 +78,7 @@ private:
 	CButton m_h264;
 	CButton m_mjpeg;
 	CSliderCtrl m_Qslider;
+	CString m_Qtext;
 
 	bool started;
 	int sdk_model;
@@ -158,4 +159,6 @@ public:
 	afx_msg void OnBnClickedRegisterButton();
 	afx_msg void OnBnClickedCaptureEnChk3();
 	afx_msg void OnBnClickedCaptureEnChk4();
+
+	afx_msg void OnHScroll(UINT nSBCode, UINT nPos, CScrollBar* pScrollBar);
 };

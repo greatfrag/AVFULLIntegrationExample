@@ -145,7 +145,6 @@ END_MESSAGE_MAP()
 CH264SDKExampleDlg::CH264SDKExampleDlg(CWnd* pParent /*=NULL*/)
 	: CDialog(CH264SDKExampleDlg::IDD, pParent),
 	m_regDlg(this)
-	
 {
 	//m_hIcon = AfxGetApp()->LoadIcon(IDB_GREEN);
 
@@ -179,6 +178,7 @@ void CH264SDKExampleDlg::DoDataExchange(CDataExchange* pDX)
 	DDX_Control(pDX, IDC_CAPTURE_EN_CHK2, m_doublescan_chk);
 	DDX_Control(pDX, IDC_CAPTURE_EN_CHK3, m_scaledimage_chk);
 	DDX_Control(pDX, IDC_CAPTURE_EN_CHK4, m_flexiblecropping_chk);
+	DDX_Text(pDX, IDC_Q_TEXT, m_Qtext);
 }
 
 BEGIN_MESSAGE_MAP(CH264SDKExampleDlg, CDialog)
@@ -216,6 +216,7 @@ BEGIN_MESSAGE_MAP(CH264SDKExampleDlg, CDialog)
 	ON_BN_CLICKED(IDC_CAPTURE_EN_CHK2, &CH264SDKExampleDlg::OnBnClickedCaptureEnChk2)
 	ON_BN_CLICKED(IDC_CAPTURE_EN_CHK3, &CH264SDKExampleDlg::OnBnClickedCaptureEnChk3)
 	ON_BN_CLICKED(IDC_CAPTURE_EN_CHK4, &CH264SDKExampleDlg::OnBnClickedCaptureEnChk4)
+	ON_WM_HSCROLL()
 END_MESSAGE_MAP()
 
 
@@ -346,6 +347,7 @@ BOOL CH264SDKExampleDlg::OnInitDialog()
 	m_Qslider.SetRangeMax(21);
 	m_Qslider.SetPos(10);
 	m_codec_type = H264_CODEC;
+	m_Qtext.Format(_T("%d"), 37-startQ);
 	m_dnMode = AV_DN_Auto;
 	m_lightMode = AV_HZ_60;
 
@@ -355,8 +357,7 @@ BOOL CH264SDKExampleDlg::OnInitDialog()
 	m_discoveryDlg.Create(IDD_FIND_FIALOG, this);
 	m_regDlg.Create(CRegDialog::IDD, this);
 
-
-
+	UpdateData(FALSE);
 	return TRUE;  // return TRUE  unless you set the focus to a control
 }
 
@@ -667,7 +668,8 @@ void CH264SDKExampleDlg::OnBnClickedRadio2()
 	}
 
 	m_mjpeg.SetCheck(FALSE);
-
+	m_Qtext.Format(_T("%d"), 37-m_Qslider.GetPos());
+	UpdateData(FALSE);
 }
 
 
@@ -687,6 +689,8 @@ void CH264SDKExampleDlg::OnBnClickedRadio3()
 	}
 
 	m_h264.SetCheck(FALSE);
+	m_Qtext.Format(_T("%d"), m_Qslider.GetPos());
+	UpdateData(FALSE);
 }
 
 
@@ -1279,4 +1283,20 @@ void CH264SDKExampleDlg::OnBnClickedCaptureEnChk4()
 
 	http_client.setRequestLine(os.str());
 	http_client.openStream();
+}
+
+
+void CH264SDKExampleDlg::OnHScroll(UINT nSBCode, UINT nPos, CScrollBar* pScrollBar)
+{
+	if (pScrollBar == (CScrollBar *) &m_Qslider)
+	{
+	   int value = m_Qslider.GetPos();
+	   if (m_codec_type == H264_CODEC) value = 37 - value;
+	   m_Qtext.Format(_T("%d"), value);
+	   UpdateData(FALSE);
+	}
+	else
+	{
+		CDialog::OnHScroll(nSBCode, nPos, pScrollBar);
+	}
 }
