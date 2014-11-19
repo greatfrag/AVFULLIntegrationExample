@@ -65,7 +65,7 @@
       <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
     </ClCompile>
     <Link>
-      <OutputFile>../executable/AVFULLIntegration.exe</OutputFile>
+      <OutputFile>../executable/AVFULLIntegrationExample.exe</OutputFile>
       <AdditionalLibraryDirectories>./viewsupport;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
